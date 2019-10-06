@@ -1,0 +1,1 @@
+java -jar processing-py.jar %cd%\src\p3py\%1\%1.py
