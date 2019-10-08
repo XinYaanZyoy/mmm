@@ -35,8 +35,8 @@ checkout my [fb-album](https://www.facebook.com/49yatriyaan.love/media_set?set=a
 <summary>OCT</summary>
 
 #### 03
-1. sierpinski.cpp [source](src/oglcpp/sierpinski.cpp) [output](https://www.facebook.com/49yatriyaan.love/videos/2416014465312933/)
-#### 06
-2. primeSquares.py [source](src/p3py/primeSquares.py) [output]()
+1. sierpinski.cpp [source](src/oglcpp/sierpinski/sierpinski.cpp) [output](https://www.facebook.com/49yatriyaan.love/videos/2416014465312933/)
+#### 08
+2. fibonaciSquares.py [source](src/p3py/fibonaciSquares/fibonaciSquares.py) [output](https://www.facebook.com/49yatriyaan.love/videos/2420369178210795/)
 
 </details>
