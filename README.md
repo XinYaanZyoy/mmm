@@ -3,8 +3,7 @@
 
 > I've tried my best to write code less and comments more!
 
-checkout my [insta](https://instagram.com/49yatriyaan.love) for screenshots!
-checkout my [fb-album](https://www.facebook.com/49yatriyaan.love/media_set?set=a.2416012425313137&type=3) for GIFS!
+checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https://www.facebook.com/49yatriyaan.love/media_set?set=a.2416012425313137&type=3) for outputs!
 
 ## running from Source
 - first clone this repo!
