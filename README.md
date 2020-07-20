@@ -28,6 +28,9 @@ checkout my [fb-album](https://www.facebook.com/49yatriyaan.love/media_set?set=a
 3. P5js(src/p5js)
     - just click on the link in the INDEX output if provided or run it on your localserver!
 
+4. GeoGebra(src/ggb)
+    - open it in webapp of geogebra or download an app on the system and open there, simple!
+
 ## INDEX
 
 # 2019
@@ -39,4 +42,12 @@ checkout my [fb-album](https://www.facebook.com/49yatriyaan.love/media_set?set=a
 #### 08
 2. fibonaciSquares.py [source](src/p3py/fibonaciSquares/fibonaciSquares.py) [output](https://www.facebook.com/49yatriyaan.love/videos/2420369178210795/)
 
+</details>
+
+# 2020
+<details>
+<summary>JULY</summary>
+    
+### 20
+1. taylor_sinx.ggb [source](src/ggb/taylor_sinx/taylor_sinx.ggb) [output]()
 </details>
