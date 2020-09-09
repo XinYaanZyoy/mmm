@@ -10,24 +10,24 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
 - Note: $FNAME refers to a file from src dir you want to run, you've to provide $FNAME without path and extension
 - Example: ./run_cpp.bash sierpinski
 
-1. CPP(src/oglcpp)
+1. [CPP](src/oglcpp)
     note: requires OpenGL
     - run_cpp.bash is for running cpp sketches on linux machines
         - ./run_cpp.bash $FNAME
     - run_cpp.bat is for running cpp sketches on windows machines
         - .\run_cpp.bat $FNAME
 
-2. PDE(src/p3py)
+2. ]PDE](src/p3py)
     note: requires JRE8u202 [refer](https://py.processing.org/tutorials/command-line/)
     - run_p3.bash is for running processing sketches on linux machines
         - ./run_p3.bash $FNAME
     - run_p3.bat is for running processing sketches on windows machines
         - .\run_p3.bat $FNAME
 
-3. P5js(src/p5js)
+3. [P5js](src/p5js)
     - just click on the link in the INDEX output if provided or run it on your localserver!
 
-4. GeoGebra(src/ggb)
+4. [GeoGebra](src/ggb)
     - open it in webapp of geogebra or download an app on the system and open there, simple!
 
 ## INDEX
@@ -48,5 +48,18 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
 <summary>JULY</summary>
     
 ### 20
-1. taylor_sinx.ggb [source](src/ggb/taylor_sinx/taylor_sinx.ggb) [output]()
+1. taylor_sinx.ggb [source](src/ggb/taylor_sinx/taylor_sinx.ggb) [output](https://www.instagram.com/p/CC3qmhADWQD/)
+</details>
+
+<details>
+<summary>SEP</summary>
+    
+### 09
+1. wavefronts [source](src/p5js/wfs/index.html) 
+    
+    outputs:
+    - [subsonic](https://www.instagram.com/p/CE5qDv_DPg4/)
+    - [sonic](https://www.instagram.com/p/CE5qZT7jtML/)
+    - [supersonic](https://www.instagram.com/p/CE5qt_FjrN7/)
+    - [hypersonic](https://www.instagram.com/p/CE5ra8DjVI3/)
 </details>
