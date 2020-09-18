@@ -62,4 +62,12 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
     - [sonic](https://www.instagram.com/p/CE5qZT7jtML/)
     - [supersonic](https://www.instagram.com/p/CE5qt_FjrN7/)
     - [hypersonic](https://www.instagram.com/p/CE5ra8DjVI3/)
+
+### 18
+1. Spirals [source](src/ggb/Spirals/Spirals.ggb)
+
+    outputs:
+    - [Archemidean](https://www.instagram.com/p/CFR5pWMD9_P/)
+    - [Fermat's](https://www.instagram.com/p/CFR6ivKjUHH/)
+
 </details>
