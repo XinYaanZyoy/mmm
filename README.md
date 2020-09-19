@@ -71,6 +71,6 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
     - [Fermat's](https://www.instagram.com/p/CFR6ivKjUHH/)
 
 ### 19
-1. PDEs [source](src/p5js/PDEs/index.html) [output]()
+1. PDEs [source](src/p5js/PDEs/index.html) [output](https://www.instagram.com/p/CFUK8F3DNGM/)
 
 </details>
