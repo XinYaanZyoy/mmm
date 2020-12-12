@@ -32,6 +32,11 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
 
 ## INDEX
 
+# TODOs
+- sine interferace at angle
+- PI circle darts
+- 
+
 # 2019
 <details>
 <summary>OCT</summary>
