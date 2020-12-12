@@ -17,8 +17,8 @@ checkout my [insta](https://instagram.com/49yatriyaan.love) and [fb-album](https
     - run_cpp.bat is for running cpp sketches on windows machines
         - .\run_cpp.bat $FNAME
 
-2. [PDE](src/p3py)
-    note: requires JRE8u202 [refer](https://py.processing.org/tutorials/command-line/)
+2. [p3py](src/p3py) 
+    note: NOT p5py, requires JRE8u202 [refer](https://py.processing.org/tutorials/command-line/) 
     - run_p3.bash is for running processing sketches on linux machines
         - ./run_p3.bash $FNAME
     - run_p3.bat is for running processing sketches on windows machines
